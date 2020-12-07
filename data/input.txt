@@ -1,0 +1,12 @@
+AAA Ivanov,Petrov aversev 2015 356 42.65 HARD
+BBB Petrov aversev 2016356 100.5 HARD
+CCC Andreev asveta 2015 356 42.66 HARD
+DDD Bogdanov,Antonov,Borisov AST 2015 356 42.65 HARD
+ABC Ivanov ASTnew 2020 356 30.00 HARD
+AAC Petrov,Egorov bsu 2016 356 40.00 SOFT
+AAB Ivanov,Bogdanov asveta2 2015 356 57.46  HARD
+BAC Ivanov,Petrov aversev 1958 356 38.21 HARD
+CAB Ivanov,Petrov aversev 2002 356 66.95 HARD
+DBA Ivanov,Petrov aversev 2008 356 40.30 HARD
+BAD Ivanov,Petrov aversev 2014 356 25.46 HARD
+CDV Ivanov,Petrov aversev 2015 356 17.30 HARD
